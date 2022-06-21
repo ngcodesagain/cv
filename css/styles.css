@@ -1,0 +1,14 @@
+/* This file is known as External CSS*/
+
+body{
+    background-color: #CCF3EE;
+}
+
+hr{ 
+    border-style: none;
+    border-top-style: dotted ;
+    border-color: azure;
+    border-width: 5px;
+    height: 0px;
+    width: 5%;
+}
